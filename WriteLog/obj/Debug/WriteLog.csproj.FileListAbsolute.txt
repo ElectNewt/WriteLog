@@ -1,0 +1,7 @@
+C:\Users\ieopsiza\Desktop\WriteLog\WriteLog\WriteLog\obj\Debug\WriteLog.csprojResolveAssemblyReference.cache
+C:\Users\ieopsiza\Desktop\WriteLog\WriteLog\WriteLog\bin\Debug\WriteLog.dll
+C:\Users\ieopsiza\Desktop\WriteLog\WriteLog\WriteLog\bin\Debug\WriteLog.pdb
+C:\Users\ieopsiza\Desktop\WriteLog\WriteLog\WriteLog\bin\Debug\log4net.dll
+C:\Users\ieopsiza\Desktop\WriteLog\WriteLog\WriteLog\bin\Debug\log4net.xml
+C:\Users\ieopsiza\Desktop\WriteLog\WriteLog\WriteLog\obj\Debug\WriteLog.dll
+C:\Users\ieopsiza\Desktop\WriteLog\WriteLog\WriteLog\obj\Debug\WriteLog.pdb
