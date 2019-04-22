@@ -26,3 +26,5 @@ The result will be `.. this is a test` this will help a lot in order to clarify 
 Finally the log 4 net exceptions are available on `Warning`, `Error`, `Fatal` using the next 
 `WriteLog.Warning("This is a warning",2,exception)`
 
+
+##### Idea to convert to .net core
